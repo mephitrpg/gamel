@@ -1,0 +1,25 @@
+{
+  "name": "gamel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mephitrpg/gamel.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mephitrpg/gamel/issues"
+  },
+  "homepage": "https://github.com/mephitrpg/gamel#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "moment": "^2.29.1",
+    "node-localstorage": "^2.1.6",
+    "underscore": "^1.11.0"
+  }
+}
